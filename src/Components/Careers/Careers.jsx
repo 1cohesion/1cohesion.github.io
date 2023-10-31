@@ -39,10 +39,10 @@ const Careers = () => {
     <section className='careers' data-scroll-container ref={containerRef} id="scroll-container">
       <div className="careers-copy" data-scroll-section>
       <div className="careers-copy-p">
-          <span>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Illum, dicta.</span>
+          <span>We move fast and break things.</span>
         </div>
         <div className="careers-copy-h1">
-          <h1>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sint nihil nesciunt obcaecati.</h1>
+          <h1>We are looking for the top creatives to work with us.</h1>
         </div>
       </div>
       <div className="careers-lottie">

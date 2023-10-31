@@ -53,7 +53,7 @@ const Home = () => {
         </div>
         <div className="hero-img-copy">
           <div className="hero-img-copy-h1">
-            <h1>Unusual</h1>
+            <h1>1cohesion</h1>
           </div>
         </div>
       </section>
@@ -62,7 +62,7 @@ const Home = () => {
         <div className="projects-copy-ws"></div>
 
           <div className="projects-copy-h1">
-            <h1>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia vero labore excepturi numquam ratione.</h1>
+            <h1>Accelerating imagination with AI</h1>
           </div>
         </div>
         <div className="projects-list">
@@ -70,10 +70,10 @@ const Home = () => {
             <div className="project">
               <div className="project-img project-img-1"></div>
               <div className="project-name">
-                <p>Project Name &#8599;</p>
+                <p>I &#8599;</p>
               </div>
               <div className="project-category">
-                <p>Project Category</p>
+                <p>ENV</p>
               </div>
             </div>
           </Link>
@@ -81,10 +81,10 @@ const Home = () => {
             <div className="project">
               <div className="project-img project-img-2"></div>
               <div className="project-name">
-                <p>Project Name &#8599;</p>
+                <p>II &#8599;</p>
               </div>
               <div className="project-category">
-                <p>Project Category</p>
+                <p>ART</p>
               </div>
             </div>
           </Link>
@@ -94,10 +94,10 @@ const Home = () => {
             <div className="project">
               <div className="project-img project-img-3"></div>
               <div className="project-name">
-                <p>Project Name &#8599;</p>
+                <p>III &#8599;</p>
               </div>
               <div className="project-category">
-                <p>Project Category</p>
+                <p>ENTITY</p>
               </div>
             </div>
           </Link>
@@ -105,10 +105,10 @@ const Home = () => {
             <div className="project">
               <div className="project-img project-img-4"></div>
               <div className="project-name">
-                <p>Project Name &#8599;</p>
+                <p>IV &#8599;</p>
               </div>
               <div className="project-category">
-                <p>Project Category</p>
+                <p>SCENE</p>
               </div>
             </div>
           </Link>
@@ -117,14 +117,13 @@ const Home = () => {
       <section className="article" data-scroll-section>
         <div className="article-container">
           <div className="article-container-copy">
-            <h1>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eum aspernatur ratione iure dicta officiis pariatur corrupti laborum rem molestiae odio?</h1>
-            <a href="#">Some CTA &#8599;</a>
+            <h1>unlock the internal state representation</h1>
           </div>
         </div>
       </section>
       <section className="services" data-scroll-section>
-      <div className="services-copy-p"><span>Lorem ipsum</span></div>
-        <div className="services-copy-h1"><h1>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum facilis sunt, inventore eligendi aperiam quaerat repudiandae perspiciatis possimus.</h1></div>
+      <div className="services-copy-p"><span>Think bigger</span></div>
+        <div className="services-copy-h1"><h1>Why limit yourself from finding a higher representation of your vision.</h1></div>
       </section>
       <section className="feature-img" data-scroll-section>
         <div className="feature-img-container">
@@ -166,32 +165,32 @@ const Home = () => {
           <div className="client-copy-p">
             <p>OUR CLIENTS</p>
             <br />
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam assumenda at quam optio ab animi eos, necessitatibus, laboriosam explicabo cupiditate accusantium pariatur quidem voluptas voluptates atque itaque velit libero! Amet nihil corrupti alias animi commodi doloremque quae officia blanditiis?</p>
+            <p>Unreal Engine.</p>
             <br />
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente, eum at. Vel rem, ipsum tenetur rerum doloremque pariatur magnam, quos, quod fugiat quo odit. Quia, pariatur officia. Facilis veniam tempore debitis error totam minima voluptatum distinctio ut et? Similique, soluta!.</p>
+            <p>Naughty Dog.</p>
             <br />
-            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quae et earum placeat delectus iure optio sapiente harum consequatur ratione totam?</p>
+            <p>Heart Machine.</p>
           </div>
           <div className="client-copy-p">
           <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente, eum at. Vel rem, ipsum tenetur rerum doloremque pariatur magnam, quos, quod fugiat quo odit. Quia, pariatur officia. Facilis veniam tempore debitis error totam minima voluptatum distinctio ut et? Similique, soluta!.</p>
             <br />
-            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quae et earum placeat delectus iure optio sapiente harum consequatur ratione totam?</p>
+            <p>Pushing the bounds of whats real.</p>
           </div>
         </div>
       </section>
       <section className="footer" data-scroll-section>
         <div className="footer-copy">
           <div className="footer-copy-h1">
-            <a href="#">
+            <a href="mailto: team@1cohesion.com">
               <h1>Contact</h1>
             </a>
           </div>
           <div className="footer-copy-text">
-            <p>Digital creative studio</p>
+            <p>Creative Design Lab</p>
             <br />
-            <p><a href="#">Twitter</a> • <a href="#">Instagram</a> • <a href="#">LinkedIn</a></p>
+            <p><a href="https://twitter.com/1cohesion">X</a> • <a href="https://www.instagram.com/1cohesion/">Instagram</a> • <a href="https://www.linkedin.com/company/1cohesion/">LinkedIn</a></p>
             <br />
-            <p>Toronto, CA {time}</p>
+            <p>New York City, USA {time}</p>
           </div>
         </div>
       </section>
