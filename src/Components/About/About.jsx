@@ -82,7 +82,7 @@ const About = () => {
             <div className="about-us-copy-p">
               <span>1cohesion</span>
               <span>Creative Design Lab</span>
-              <span>New York City</span>
+              <span>New York City, USA</span>
               <span></span>
               <br />
               <span>
@@ -189,7 +189,7 @@ const About = () => {
                 <a href="https://www.linkedin.com/company/1cohesion/">LinkedIn</a>
               </p>
               <br />
-              <p>New York City, NY {time}</p>
+              <p>New York City, USA {time}</p>
             </div>
           </div>
         </section>

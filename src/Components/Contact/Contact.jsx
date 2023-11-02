@@ -58,9 +58,9 @@ const Contact = () => {
           <span>Our Workplace</span>
           <br />
           <br />
-          <p>NYC </p>
+          <p> </p>
           <p>{/* street name */}</p>
-          <p>NYC NY</p>
+          <p>New York City, USA</p>
           <br />
           <span id="copyright">
             1cohesion is a creative design lab <br /> NYC, NY © 2023 ALL
