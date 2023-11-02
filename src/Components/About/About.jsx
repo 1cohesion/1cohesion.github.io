@@ -80,13 +80,13 @@ const About = () => {
               <br />
             </div>
             <div className="about-us-copy-p">
-              <span>Unusual Designs</span>
-              <span>Digital Creative Studio</span>
-              <span>Toronto 0982</span>
-              <span>0912 King street</span>
+              <span>1cohesion</span>
+              <span>Creative Design Lab</span>
+              <span>New York City</span>
+              <span></span>
               <br />
               <span>
-                <a href="#">hi@boring.studio</a>
+                <a href="mailto: team@1cohesion.com">team@1cohesion.com</a>
               </span>
             </div>
           </div>
@@ -159,13 +159,13 @@ const About = () => {
           </div>
           <div className="about-us-copy">
             <div className="about-us-copy-p">
-              <span>Unusual Designs</span>
-              <span>Digital Creative Studio</span>
-              <span>Toronto 0982</span>
-              <span>0912 King street</span>
+              <span>1cohesion</span>
+              <span>Creative Design Lab</span>
+              <span>NYC NY</span>
+              <span> put street </span>
               <br />
               <span>
-                <a href="#">hi@boring.studio</a>
+                <a href="mailto: team@1cohesion.com">team@1cohesion.com</a>
               </span>
             </div>
             <div className="about-us-copy-h1">
@@ -177,19 +177,19 @@ const About = () => {
         <section className="footer" data-scroll-section>
           <div className="footer-copy">
             <div className="footer-copy-h1">
-              <a href="#">
+              <a href="mailto: team@1cohesion.com">
                 <h1>Contact</h1>
               </a>
             </div>
             <div className="footer-copy-text">
-              <p>Digital creative studio</p>
+              <p>Creative Design Lab</p>
               <br />
               <p>
-                <a href="#">Twitter</a> • <a href="#">Instagram</a> •{" "}
-                <a href="#">LinkedIn</a>
+                <a href="https://twitter.com/1cohesion">X</a> • <a href="https://www.instagram.com/1cohesion/">Instagram</a> •{" "}
+                <a href="https://www.linkedin.com/company/1cohesion/">LinkedIn</a>
               </p>
               <br />
-              <p>Toronto, CA {time}</p>
+              <p>New York City, NY {time}</p>
             </div>
           </div>
         </section>

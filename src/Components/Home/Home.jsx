@@ -123,7 +123,7 @@ const Home = () => {
       </section>
       <section className="services" data-scroll-section>
       <div className="services-copy-p"><span>Think bigger</span></div>
-        <div className="services-copy-h1"><h1>Why limit yourself from finding a higher representation of your vision.</h1></div>
+        <div className="services-copy-h1"><h1>Why limit yourself from finding a higher representation of your vision</h1></div>
       </section>
       <section className="feature-img" data-scroll-section>
         <div className="feature-img-container">

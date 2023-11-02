@@ -169,16 +169,16 @@ const Project = () => {
         <section className="footer" data-scroll-section>
         <div className="footer-copy">
           <div className="footer-copy-h1">
-            <a href="#">
+            <a href="mailto: team@1cohesion.com">
               <h1>Contact</h1>
             </a>
           </div>
           <div className="footer-copy-text">
-            <p>Digital creative studio</p>
+            <p>Creative Design Lab</p>
             <br />
-            <p><a href="#">Twitter</a> • <a href="#">Instagram</a> • <a href="#">LinkedIn</a></p>
+            <p><a href="https://twitter.com/1cohesion">X</a> • <a href="https://www.instagram.com/1cohesion/">Instagram</a> • <a href="https://www.linkedin.com/company/1cohesion/">LinkedIn</a></p>
             <br />
-            <p>Toronto, CA {time}</p>
+            <p>New York City, USA {time}</p>
           </div>
         </div>
       </section>

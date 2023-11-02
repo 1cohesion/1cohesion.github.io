@@ -38,33 +38,32 @@ const Contact = () => {
             nam?
           </p>
           <br />
-          <a href="#">contact@boring.studio</a>
+          <a href="mailto: team@1cohesion.com">team@1cohesion.com</a>
           <br />
           <br />
           <br />
-          <p>Opening times : Mon–Fri, 10–18</p>
           <br />
           <br />
           <span>Networks</span>
           <br />
           <br />
-          <a href="#">Twitter</a>
+          <a href="https://twitter.com/1cohesion">X</a>
           <br />
-          <a href="#">Instagram</a>
+          <a href="https://www.instagram.com/1cohesion/">Instagram</a>
           <br />
-          <a href="#">LinkedIn</a>
+          <a href="https://www.linkedin.com/company/1cohesion/">LinkedIn</a>
           <br />
           <br />
           <br />
           <span>Our Workplace</span>
           <br />
           <br />
-          <p>Toronto 0982</p>
-          <p>0912 King street</p>
-          <p>Toronto CA</p>
+          <p>NYC </p>
+          <p>{/* street name */}</p>
+          <p>NYC NY</p>
           <br />
           <span id="copyright">
-            Unusual Designs is a creative studio <br /> Toronto, CA © 2023 ALL
+            1cohesion is a creative design lab <br /> NYC, NY © 2023 ALL
             RIGHTS RESERVED.
           </span>
         </div>
